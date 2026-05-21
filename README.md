@@ -47,7 +47,17 @@ $ _
 <tr>
 <td align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datacrash&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/datacrash)
+```text
+┌─────────────────────────────────────┐
+│ SIGNAL SNAPSHOT                     │
+├─────────────────────────────────────┤
+│ HANDLE     @datacrash               │
+│ STACK      .NET 8 · Azure · Docker  │
+│ FOCUS      Architecture · Backend   │
+│ SURFACES   Root · Hub · LinkedIn    │
+│ STATUS     Forward-only delivery    │
+└─────────────────────────────────────┘
+```
 
 </td>
 <td align="center">
@@ -58,7 +68,15 @@ $ _
 </tr>
 </table>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datacrash&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&langs_count=8)](https://github.com/datacrash)
+[![TypeScript](https://img.shields.io/badge/TypeScript-core-0d1117?style=for-the-badge&logo=typescript&logoColor=4fe1ff&labelColor=0d1117&color=162033)](https://github.com/DataCrash)
+&nbsp;
+[![C Sharp](https://img.shields.io/badge/C%23-enterprise-0d1117?style=for-the-badge&logo=csharp&logoColor=4fe1ff&labelColor=0d1117&color=162033)](https://github.com/DataCrash)
+&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-tooling-0d1117?style=for-the-badge&logo=javascript&logoColor=ffcf66&labelColor=0d1117&color=162033)](https://github.com/DataCrash)
+&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-interface-0d1117?style=for-the-badge&logo=css&logoColor=4fe1ff&labelColor=0d1117&color=162033)](https://github.com/DataCrash)
+&nbsp;
+[![Azure](https://img.shields.io/badge/Azure-cloud-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=4fe1ff&labelColor=0d1117&color=162033)](https://github.com/DataCrash)
 
 </div>
 
@@ -120,9 +138,9 @@ $ _
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/datacrash/datacrash/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/datacrash/datacrash/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://github.com/datacrash/datacrash/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DataCrash/datacrash/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DataCrash/datacrash/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/DataCrash/datacrash/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
