@@ -10,6 +10,20 @@
 
 ---
 
+<div align="center">
+
+`ROOT GATEWAY LIVE` • `PROFESSIONAL HUB ONLINE` • `SIGNAL ROUTING ACTIVE`
+
+[![Root Gateway](https://img.shields.io/badge/Root_Gateway-datacrash.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=4fe1ff&labelColor=111111&color=ff7a18)](https://datacrash.github.io/)
+&nbsp;
+[![Professional Hub](https://img.shields.io/badge/Professional_Hub-Live-111111?style=for-the-badge&logo=react&logoColor=4fe1ff&labelColor=111111&color=4fe1ff)](https://datacrash.github.io/professional-hub/)
+&nbsp;
+[![Signal Layer](https://img.shields.io/badge/Signal_Layer-Cyan%20%2B%20Orange-111111?style=for-the-badge&logo=visualstudiocode&logoColor=ffcf9f&labelColor=111111&color=1a1a1a)](https://github.com/datacrash)
+
+</div>
+
+---
+
 ```bash
 $ system --identify
 
