@@ -12,6 +12,44 @@
 
 <div align="center">
 
+## Language Toggle
+
+[PT-BR](#pt-br) • [EN](#en)
+
+</div>
+
+---
+
+## PT-BR
+
+Engenheiro .NET Sênior com foco em arquitetura de soluções, modernização de plataformas e entrega confiável em ambientes enterprise.
+
+Principais rotas:
+
+- Site principal: [datacrash.github.io](https://datacrash.github.io/)
+- Professional Hub: [datacrash.github.io/professional-hub](https://datacrash.github.io/professional-hub/)
+- LinkedIn: [linkedin.com/in/datacrash](https://www.linkedin.com/in/datacrash/)
+- CV PT-BR (PDF): [Download PT-BR](https://raw.githubusercontent.com/DataCrash/professional-hub/main/public/cv/Senior_DotNet_Engineer_Alessandro_Pereira_BR.pdf)
+- CV EN (PDF): [Download EN](https://raw.githubusercontent.com/DataCrash/professional-hub/main/public/cv/Senior_DotNet_Engineer_Alessandro_Pereira_EN.pdf)
+
+---
+
+## EN
+
+Senior .NET Engineer focused on solution architecture, platform modernization and reliable delivery in enterprise environments.
+
+Main routes:
+
+- Main website: [datacrash.github.io](https://datacrash.github.io/)
+- Professional Hub: [datacrash.github.io/professional-hub](https://datacrash.github.io/professional-hub/)
+- LinkedIn: [linkedin.com/in/datacrash](https://www.linkedin.com/in/datacrash/)
+- CV PT-BR (PDF): [PT-BR PDF](https://raw.githubusercontent.com/DataCrash/professional-hub/main/public/cv/Senior_DotNet_Engineer_Alessandro_Pereira_BR.pdf)
+- CV EN (PDF): [EN PDF](https://raw.githubusercontent.com/DataCrash/professional-hub/main/public/cv/Senior_DotNet_Engineer_Alessandro_Pereira_EN.pdf)
+
+---
+
+<div align="center">
+
 `ROOT GATEWAY LIVE` • `PROFESSIONAL HUB ONLINE` • `SIGNAL ROUTING ACTIVE`
 
 [![Root Gateway](https://img.shields.io/badge/Root_Gateway-datacrash.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=4fe1ff&labelColor=111111&color=ff7a18)](https://datacrash.github.io/)
@@ -158,6 +196,10 @@ $ _
 [![CV PT-BR](https://img.shields.io/badge/Currículo_PT--BR-Ver_Online-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00d4ff&labelColor=0d1117&color=00d4ff)](https://datacrash.github.io/professional-hub/#/cv-ptbr)
 &nbsp;
 [![CV EN](https://img.shields.io/badge/Resume_EN-View_Online-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00d4ff&labelColor=0d1117&color=00d4ff)](https://datacrash.github.io/professional-hub/#/cv-en)
+&nbsp;
+[![PDF PT-BR](https://img.shields.io/badge/CV_PT--BR-PDF_Download-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00d4ff&labelColor=0d1117&color=00d4ff)](https://raw.githubusercontent.com/DataCrash/professional-hub/main/public/cv/Senior_DotNet_Engineer_Alessandro_Pereira_BR.pdf)
+&nbsp;
+[![PDF EN](https://img.shields.io/badge/CV_EN-PDF_Download-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00d4ff&labelColor=0d1117&color=00d4ff)](https://raw.githubusercontent.com/DataCrash/professional-hub/main/public/cv/Senior_DotNet_Engineer_Alessandro_Pereira_EN.pdf)
 
 </div>
 
