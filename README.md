@@ -52,11 +52,17 @@ Main routes:
 
 `ROOT GATEWAY LIVE` • `PROFESSIONAL HUB ONLINE` • `SIGNAL ROUTING ACTIVE`
 
-[![Root Gateway](https://img.shields.io/badge/Root_Gateway-datacrash.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=4fe1ff&labelColor=111111&color=ff7a18)](https://datacrash.github.io/)
+<a href="https://datacrash.github.io/">
+  <img src="./.github/badges/root-gateway.svg" alt="Root Gateway" />
+</a>
 &nbsp;
-[![Professional Hub](https://img.shields.io/badge/Professional_Hub-Live-111111?style=for-the-badge&logo=react&logoColor=4fe1ff&labelColor=111111&color=4fe1ff)](https://datacrash.github.io/professional-hub/)
+<a href="https://datacrash.github.io/professional-hub/">
+  <img src="./.github/badges/professional-hub.svg" alt="Professional Hub" />
+</a>
 &nbsp;
-[![GitHub DataCrash](https://img.shields.io/badge/GitHub-DataCrash-ff7a18?style=for-the-badge&logo=github&logoColor=4fe1ff&labelColor=ff7a18&color=ff7a18)](https://github.com/datacrash)
+<a href="https://github.com/datacrash">
+  <img src="./.github/badges/github-profile.svg" alt="GitHub DataCrash" />
+</a>
 
 </div>
 
