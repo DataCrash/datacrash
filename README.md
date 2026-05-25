@@ -56,7 +56,7 @@ Main routes:
 &nbsp;
 [![Professional Hub](https://img.shields.io/badge/Professional_Hub-Live-111111?style=for-the-badge&logo=react&logoColor=4fe1ff&labelColor=111111&color=4fe1ff)](https://datacrash.github.io/professional-hub/)
 &nbsp;
-[![GitHub DataCrash](https://img.shields.io/badge/GitHub-DataCrash-111111?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111&color=1a1a1a)](https://github.com/datacrash)
+[![GitHub DataCrash](https://img.shields.io/badge/GitHub-DataCrash-ff7a18?style=for-the-badge&logo=github&logoColor=4fe1ff&labelColor=ff7a18&color=ff7a18)](https://github.com/datacrash)
 
 </div>
 
