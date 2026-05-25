@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:030d1e,70:001a33,100:00d4ff&height=220&section=header&text=%20%20DataCrash&fontSize=90&fontColor=00d4ff&animation=blink&fontAlignY=58&stroke=00d4ff&strokeWidth=1.5&desc=Alessandro%20Ferreira%20Pereira&descSize=18&descAlignY=78&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:09111f,70:102235,100:183347&height=220&section=header&text=%20%20DataCrash&fontSize=90&fontColor=4fe1ff&animation=blink&fontAlignY=58&stroke=4fe1ff&strokeWidth=1.5&desc=Alessandro%20Ferreira%20Pereira&descSize=18&descAlignY=78&descColor=eaf7ff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=680&height=45&lines=Senior+.NET+Engineer+%7C+Solution+Architecture;Platform+Modernization+%7C+Tech+Lead+Backend;S%C3%A3o+Paulo%2C+Brasil+%E2%80%94+Open+to+Remote+%2B+Occasional+In-Person+Visits;Building+robust+systems%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
@@ -193,17 +193,17 @@ $ _
 
 <div align="center">
 
-[![Professional Hub](https://img.shields.io/badge/Professional_Hub-datacrash.github.io-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117&color=00d4ff)](https://datacrash.github.io/professional-hub/)
+[![Professional Hub](https://img.shields.io/badge/Professional_Hub-datacrash.github.io-162033?style=for-the-badge&logo=github&logoColor=4fe1ff&labelColor=0d1117&color=162033)](https://datacrash.github.io/professional-hub/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro_Pereira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datacrash/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro_Pereira-183b56?style=for-the-badge&logo=linkedin&logoColor=8fd3ff&labelColor=0d1117&color=183b56)](https://www.linkedin.com/in/datacrash/)
 &nbsp;
-[![CV PT-BR](https://img.shields.io/badge/Currículo_PT--BR-Ver_Online-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00d4ff&labelColor=0d1117&color=00d4ff)](https://datacrash.github.io/professional-hub/#/cv-ptbr)
+[![CV PT-BR](https://img.shields.io/badge/Currículo_PT--BR-Ver_Online-162033?style=for-the-badge&logo=readthedocs&logoColor=4fe1ff&labelColor=0d1117&color=162033)](https://datacrash.github.io/professional-hub/#/cv-ptbr)
 &nbsp;
-[![CV EN](https://img.shields.io/badge/Resume_EN-View_Online-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00d4ff&labelColor=0d1117&color=00d4ff)](https://datacrash.github.io/professional-hub/#/cv-en)
+[![CV EN](https://img.shields.io/badge/Resume_EN-View_Online-162033?style=for-the-badge&logo=readthedocs&logoColor=4fe1ff&labelColor=0d1117&color=162033)](https://datacrash.github.io/professional-hub/#/cv-en)
 &nbsp;
-[![PDF PT-BR](https://img.shields.io/badge/CV_PT--BR-PDF_Download-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00d4ff&labelColor=0d1117&color=00d4ff)](https://raw.githubusercontent.com/DataCrash/professional-hub/main/public/cv/Senior_DotNet_Engineer_Alessandro_Pereira_BR.pdf)
+[![PDF PT-BR](https://img.shields.io/badge/CV_PT--BR-PDF_Download-162033?style=for-the-badge&logo=adobeacrobatreader&logoColor=ffc38f&labelColor=0d1117&color=162033)](https://raw.githubusercontent.com/DataCrash/professional-hub/main/public/cv/Senior_DotNet_Engineer_Alessandro_Pereira_BR.pdf)
 &nbsp;
-[![PDF EN](https://img.shields.io/badge/CV_EN-PDF_Download-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00d4ff&labelColor=0d1117&color=00d4ff)](https://raw.githubusercontent.com/DataCrash/professional-hub/main/public/cv/Senior_DotNet_Engineer_Alessandro_Pereira_EN.pdf)
+[![PDF EN](https://img.shields.io/badge/CV_EN-PDF_Download-162033?style=for-the-badge&logo=adobeacrobatreader&logoColor=ffc38f&labelColor=0d1117&color=162033)](https://raw.githubusercontent.com/DataCrash/professional-hub/main/public/cv/Senior_DotNet_Engineer_Alessandro_Pereira_EN.pdf)
 
 </div>
 
@@ -215,6 +215,6 @@ $ _
 [ SYSTEM UPTIME: CONTINUOUS ]  [ COMMITS: FORWARD-ONLY ]  [ DOWNTIME: NOT IN SCOPE ]
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:183347,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
