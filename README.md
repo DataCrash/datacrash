@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:030d1e,70:001a33,100:00d4ff&height=220&section=header&text=%20%20DataCrash&fontSize=90&fontColor=00d4ff&animation=blink&fontAlignY=58&stroke=00d4ff&strokeWidth=1.5&desc=Alessandro%20Ferreira%20Pereira&descSize=18&descAlignY=78&descColor=ffffff" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=datacrash&color=00d4ff&style=flat-square&label=SYSTEM+VISITORS)
-&nbsp;
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=680&height=45&lines=Senior+.NET+Engineer+%7C+Solution+Architecture;Platform+Modernization+%7C+Tech+Lead+Backend;S%C3%A3o+Paulo%2C+Brasil+%E2%80%94+Open+to+Remote+%2B+Occasional+In-Person+Visits;Building+robust+systems%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=datacrash&color=00d4ff&style=flat-square&label=SYSTEM+VISITORS)
 
 </div>
 
@@ -55,11 +55,9 @@ Main routes:
 <a href="https://datacrash.github.io/">
   <img src="./.github/badges/root-gateway.svg" alt="Root Gateway" />
 </a>
-&nbsp;
 <a href="https://datacrash.github.io/professional-hub/">
   <img src="./.github/badges/professional-hub.svg" alt="Professional Hub" />
 </a>
-&nbsp;
 <a href="https://github.com/datacrash">
   <img src="./.github/badges/github-profile.svg" alt="GitHub DataCrash" />
 </a>
@@ -68,7 +66,7 @@ Main routes:
 
 ---
 
-```bash
+```text
 $ system --identify
 
   USER   : Alessandro Ferreira Pereira
@@ -138,7 +136,7 @@ $ _
 
 ## `> STATUS BOARD`
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────────┐
 │                    PROCESS MONITOR v2026                        │
 ├──────────────────────────┬──────────────────────────────────────┤
